@@ -1,8 +1,6 @@
 ## Hi there 👋
 <h1 align="center"> Hi, I'm Ali Ahmad 👋</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=0e75b6&style=flat" alt="YourGitHubUsername" />
-</p>
+
 
 ## 🔥 About Me:
 - 🔬 I'm currently working on
