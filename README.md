@@ -1,16 +1,12 @@
-
 <h1 align="center"> Hi, I'm Ali Ahmad 👋</h1>
 
-
 ## 🔥 About Me:
-- 🔬 I'm currently working on
-  
-    1. Final Year Project BS(CS)
-    2. Web Based Software (  Iteration based project, Course: "Software Engineering" )
-    3. Constructing Compiler (  Iteration based project, Course: "Compiler Construction" )
-    
-      
-- 🚀 I'm improving MERN Stack, MEAN Stack, Python, C++, Java   
+- 🔬 I'm currently working on:
+  1. Final Year Project BS(CS)
+  2. Web Based Software (Iteration-based project, Course: "Software Engineering")
+  3. Constructing Compiler (Iteration-based project, Course: "Compiler Construction")
+
+- 🚀 I'm improving my skills in MERN Stack, MEAN Stack, Python, C++, and Java
 
 ## 📫 Connect With Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.linkedin.com/in/ali-ahmad-ba99b5267/)
@@ -26,5 +22,5 @@
 ![Java](https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=Java&logoColor=Blue)
 
 ## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliahmad8877&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliahmad8877&layout=compact&theme=tokyonight)
