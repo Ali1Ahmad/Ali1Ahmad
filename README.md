@@ -22,5 +22,5 @@
 ![Java](https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=Java&logoColor=Blue)
 
 ## 📊 GitHub Stats:
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliahmad8877&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliahmad8877&layout=compact&theme=tokyonight)
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali1Ahmad&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali1Ahmad&layout=compact&theme=tokyonight)
