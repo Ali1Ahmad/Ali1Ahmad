@@ -2,8 +2,8 @@
 
 ## 🔥 About Me:
 - 🔬 I'm currently working on:
-  1. Final Year Project BS(CS)
-  2. Web Based Software (Iteration-based project, Course: "Software Engineering")
+  1. Final Year Project BS(CS) on an Ed-Tech Product
+  2. Artificial Intelligence Project "Learning Agent - Torcs based Intelligent Car"
   3. Constructing Compiler (Iteration-based project, Course: "Compiler Construction")
 
 - 🚀 I'm improving my skills in MERN Stack, MEAN Stack, Python, C++, and Java
