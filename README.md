@@ -3,10 +3,9 @@
 ## 🔥 About Me:
 - 🔬 I'm currently working on:
   1. Final Year Project BS(CS) on an Ed-Tech Product
-  2. Artificial Intelligence Project "Learning Agent - Torcs based Intelligent Car"
-  3. Constructing Compiler (Iteration-based project, Course: "Compiler Construction")
-
-- 🚀 I'm improving my skills in MERN Stack, MEAN Stack, Python, C++, and Java
+  2. Polishing problem solving skills by practicing DSA question
+     
+  - 🚀 I'm improving my skills in Python, Python libraries and MERN Stack
 
 ## 📫 Connect With Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.linkedin.com/in/ali-ahmad-ba99b5267/)
