@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Ali Ahmad 👋</h1>
 
 ## 🔥 About Me
-- I'm currently working on:
-  1. An AI-powered EdTech platform (Final Year Project)
-  2. Improving problem-solving through DSA practice
-
-- Expanding my skills in Python, AI/ML workflows, and the MERN stack.
-
 ---
 
 ## 📫 Connect With Me
