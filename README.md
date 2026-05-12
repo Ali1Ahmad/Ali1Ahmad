@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Ali Ahmad 👋</h1>
 
 ## 🔥 About Me
+Final-semester Computer Science student with hands-on experience in AI/ML and Generative AI. Passionate about solving
+real-world problems through technology. Eager to contribute to global teams, grow through cross-cultural collaboration, and
+gain exposure through industry level work experiences.
 ---
 
 ## 📫 Connect With Me
